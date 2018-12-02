@@ -1,7 +1,7 @@
 
-<script src="test.js"> 
-document.getElementById("s1").innerHTML = testName;
-document.getElementById("val1").innerHTML = testVal;
+<script > 
+document.getElementById("s1").innerHTML = "testName";
+document.getElementById("val1").innerHTML = "testVal";
 </script>
 <h1>Hello World!</h1>
 <h2>A short clip on Sweden</h2>
