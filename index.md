@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 	<head>
 		<title>Hello</title>
@@ -12,11 +12,11 @@
 			<h1>Hello World!</h1>
 		</header>
 
-		<nav>
+
 			<ul class="navul">
 				<li>A short clip on Sweden
 			</ul>
-		</nav>
+
 <iframe src="https://player.vimeo.com/video/139564068" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 	</body>
 </html>
