@@ -4,14 +4,10 @@
 		<title>Hello</title>
 		<meta charset="UTF-8">
 		<meta name="author" content="Kartik Javali">
-
 	</head>
 
 	<body>
-		<header>
 			<h1>Hello World!</h1>
-		</header>
-
 
 			<ul class="navul">
 				<li>A short clip on Sweden
