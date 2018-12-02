@@ -8,5 +8,6 @@ document.getElementById('s1').innerHTML = "name";
 document.getElementById('val1').innerHTML = "Val";
 }
 }
-request.open('GET', 'https://console.thethingsnetwork.org/applications/kerlink-test-app-01/devices/mcf-lw06485/data',true);
+request.open('GET', 'https://console.thethingsnetwork.org/applications/kerlink-test-app-01/integrations/http-ttn/kerlink-httptest-01',true);
+
 request.send();
