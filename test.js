@@ -1,3 +1,3 @@
-document.getElementById('s1').innerHTML = testName;
-document.getElementById('val1').innerHTML = testVal;
+document.getElementById('s1').innerHTML = "name";
+document.getElementById('val1').innerHTML = "Val";
 
