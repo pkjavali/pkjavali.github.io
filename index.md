@@ -14,6 +14,6 @@
 	</tr>
 </table>
 <iframe src="https://player.vimeo.com/video/139564068" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-<script type="text/javascript" src="js/test.js"> 
+<script type="text/javascript" src="test.js"> 
 
 </script>	
