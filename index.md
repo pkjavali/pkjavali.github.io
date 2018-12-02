@@ -1,8 +1,5 @@
 
-<script > 
-document.getElementById("s1").innerHTML = "testName";
-document.getElementById("val1").innerHTML = "testVal";
-</script>
+
 <h1>Hello World!</h1>
 <h2>A short clip on Sweden</h2>
 
@@ -17,4 +14,6 @@ document.getElementById("val1").innerHTML = "testVal";
 	</tr>
 </table>
 <iframe src="https://player.vimeo.com/video/139564068" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-	
+<script type="text/javascript" src="js/test.js"> 
+
+</script>	
